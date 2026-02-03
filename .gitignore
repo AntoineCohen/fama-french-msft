@@ -1,0 +1,28 @@
+# Generated data and outputs — reproduce with pipeline.py then analysis.R
+data/processed/
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+
+# R
+.Rhistory
+.RData
+.Rproj.user/
+renv/library/
+
+# Typst intermediate outputs (main.pdf at root is tracked)
+report/*.pdf
+
+# Project tooling
+.planning/
+.claude/
+.rtk/
+
+# Course materials
+Ressources/
+
+# OS
+.DS_Store

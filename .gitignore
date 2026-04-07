@@ -6,6 +6,7 @@ outputs/
 __pycache__/
 *.py[cod]
 .venv/
+main.py
 
 # R
 .Rhistory
